@@ -1,0 +1,77 @@
+/* CSS styling for the profile page */
+
+/* ... your existing styles ... */
+
+/* .container-picture {
+  width: 400px;
+  height: 400px;
+} */
+
+body {
+  background-color: #798777;
+}
+
+.profile-picture {
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.profile-picture img {
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+}
+
+.profile-info {
+  text-align: center;
+}
+
+.edit-profile {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.social-media a {
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+.social-media a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.edit-form {
+  display: none;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.edit-form label,
+.edit-form input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.edit-form button {
+  margin-top: 10px;
+}
+
+.back-button {
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px;
+  background-color: #4f584e;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.back-button:hover {
+  background-color: #3b413b;
+}
