@@ -1,0 +1,73 @@
+
+    <section class="section__container musthave__container">
+      <h2 class="section__title">Must Have</h2>
+      <div class="musthave__nav">
+        <a href="#">ALL</a>
+        <a href="#">MAN</a>
+        <a href="#">WOMEN</a>
+        <a href="#">BAG</a>
+        <a href="#">SHOES</a>
+      </div>
+      <div class="musthave__grid">
+        <div class="musthave__card">
+          <img src="assets/musthave-1.png" alt="must have" />
+          <h4>Basic long sleeve T-shirt</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-2.png" alt="must have" />
+          <h4>Ribbed T-shirt with buttons</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-3.png" alt="must have" />
+          <h4>Jacket withside strips</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-4.png" alt="must have" />
+          <h4>High-heel tubular sandals</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-5.png" alt="must have" />
+          <h4>Coral fabric belt bag</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-6.png" alt="must have" />
+          <h4>Piggy skater slogan T-shirt</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-7.png" alt="must have" />
+          <h4>White platform boots</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-8.png" alt="must have" />
+          <h4>Sweater vest with sleeves</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-9.png" alt="must have" />
+          <h4>Slim fit pants</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-10.png" alt="must have" />
+          <h4>Gray backpack</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-11.png" alt="must have" />
+          <h4>Neon sweatshirt</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+        <div class="musthave__card">
+          <img src="assets/musthave-12.png" alt="must have" />
+          <h4>Hooded nautical jacket</h4>
+          <p><del>$45.00</del> $75.00</p>
+        </div>
+      </div>
+    </section>
