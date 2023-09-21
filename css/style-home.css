@@ -127,10 +127,10 @@ h-icon {
   cursor: pointer;
 }
 
-header {
+/* header {
   margin-top: 10rem;
   background-color: var(--primary-color);
-}
+} */
 
 .header__container {
   display: grid;
@@ -139,7 +139,7 @@ header {
 }
 
 .header__content p {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-weight: 600;
   color: var(--text-light);
   margin-bottom: 0.5rem;

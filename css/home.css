@@ -139,14 +139,14 @@ header {
 }
 
 .header__content p {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-weight: 600;
   color: var(--text-light);
   margin-bottom: 0.5rem;
 }
 
 .header__content h1 {
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 400;
   margin-bottom: 2rem;
   color: var(--text-dark);

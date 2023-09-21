@@ -177,13 +177,13 @@ h-icon {
   display: flex;
   font-weight: 600;
 }
-.title span {
-  padding-left: 10%;
+.title p {
+  padding-left: 10px;
 }
 
 .content-purchase {
-  padding-left: 20px;
-  padding-top: 10px;
+  padding-left: 30px;
+  padding-top: 5px;
 }
 
 .content-purchase p {
