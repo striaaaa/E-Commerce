@@ -118,7 +118,7 @@ h-icon {
 }
 
 .nav__icons {
-  display: flex;
+  display: none;
   gap: 1rem;
 }
 
@@ -492,6 +492,10 @@ header {
 @media (width < 900px) {
   header {
     margin-top: 5rem;
+  }
+
+  .nav__icons {
+    display: block;
   }
 
   .sale__grid {
